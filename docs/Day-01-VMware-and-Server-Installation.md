@@ -107,6 +107,4 @@ Windows Server Desktop
 Server Manager
 
 ![Server Manager](../screenshots/day-01-server-manager.png)
-Hostname Verification
 
-![Hostname Verification](../screenshots/day-02-hostname-verification.png)
