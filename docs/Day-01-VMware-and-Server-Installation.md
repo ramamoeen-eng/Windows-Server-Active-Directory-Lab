@@ -100,3 +100,13 @@ The server is ready for initial configuration, including hostname configuration,
 - Inspect and configure network settings.
 - Assign a static IPv4 address.
 - Prepare the server for Active Directory Domain Services (AD DS).
+11. Lab Screenshots
+Windows Server Desktop
+
+![Windows Server Desktop](../screenshots/day-01-server-desktop.png)
+Server Manager
+
+![Server Manager](../screenshots/day-01-server-manager.png)
+Hostname Verification
+
+![Hostname Verification](../screenshots/day-02-hostname-verification.png)
