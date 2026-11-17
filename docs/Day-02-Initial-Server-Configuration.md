@@ -75,19 +75,6 @@ Get-DnsClientServerAddress -AddressFamily IPv4
 
 No IPv4 DNS server was configured at this stage. This is temporary; the server will use its own static IP address (192.168.170.10) as DNS after DNS Server installation.
 
-## Screenshots
-
-Screenshots are available in the `screenshots` directory:
-
-- `day-02-network-configuration-before.png`
-- `day-02-static-ip-availability-check.png`
-- `day-02-static-ip-configuration-before.png`
-- `day-02-static-ip-verification.png`
-- `day-02-static-ip-ping-test.png`
-- `day-02-network-profile-before.png`
-- `day-02-network-profile-private.png`
-- `day-02-dns-configuration-before.png`
-
 ## Skills Practiced
 
 - Static IPv4 configuration
