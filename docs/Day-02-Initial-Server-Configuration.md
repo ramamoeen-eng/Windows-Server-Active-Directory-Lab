@@ -101,3 +101,33 @@ Screenshots are available in the `screenshots` directory:
 ## Status
 
 **Day 02: Completed**
+
+## Screenshots
+
+### 1. Hostname Verification
+![Hostname Verification](../screenshots/day-02-hostname-verification.png)
+
+### 2. Initial Network Configuration
+![Network Configuration Before](../screenshots/day-02-network-configuration-before.png)
+
+### 3. Static IP Availability Check
+![Static IP Availability Check](../screenshots/day-02-static-ip-availability-check.png)
+
+### 4. Static IP Configuration
+![Static IP Configuration](../screenshots/day-02-static-ip-configuration-before.png)
+
+### 5. Static IP Verification
+![Static IP Verification](../screenshots/day-02-static-ip-verification.png)
+
+### 6. Ping Test
+![Ping Test](../screenshots/day-02-static-ip-ping-test.png)
+
+### 7. Network Profile Before Configuration
+![Network Profile Before](../screenshots/day-02-network-profile-before.png)
+
+### 8. Private Network Profile
+![Private Network Profile](../screenshots/day-02-network-profile-private.png)
+
+### 9. DNS Configuration Check
+![DNS Configuration Check](../screenshots/day-02-dns-configuration-before.png)
+
